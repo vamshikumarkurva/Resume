@@ -1,2 +1,0 @@
-# Resume
-contains my cv
